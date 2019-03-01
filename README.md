@@ -1,4 +1,4 @@
-# datamigration
+# Data migration from Mysql to Hive and Hbase
 Data is going to migrate from mysql database to hbase and hive
 
 
